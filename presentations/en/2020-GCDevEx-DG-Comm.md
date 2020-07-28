@@ -132,11 +132,20 @@ Note:
 - fear of making a mistake/losing delegated authority/getting fired
 - we did
 
+Note:
+
+- This initiative requires a web-based interface and open source experts - IITB.  In order to be successful, this initiative also needs a streamlined procurement process (CFOB).
+- In the Red Tape Reduction report, fear of being audited/fired was identified as a cause of the overly heavy amount of process and paperwork that is typically done for a LDV contract in the GC
+
 ---
 
 ## The GC Developers Exchange
 
 <img src="assets/images/gcdevex.jfif" alt="This image shows the former GC Developers Exchange website">
+
+Note:
+
+- The GC Developers Exchange (GCDevEx) was originally launched in 2017. It was a website to facilitate micro-procurement in the GC. All contract opportunities were for open source code and had a value of $10K or less. Contractors did not need security clearance as all work was unclassified and virtual. One of the main goals of the GC Developers Exchange was to distribute GC contract dollars to those who might not normally get them (e.g., students, small companies, those not in the National Capital Region). The code used to build GCDevEx was forked from a micro-purchasing platform run by the BC Government called the BC Developers Exchange.
 
 ---
 
